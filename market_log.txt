@@ -105712,3 +105712,27 @@ This file logs previous day's closing prices of randomly selected stocks.
   TSLA: $404.11
   JNJ: $230.0
 
+[2026-05-21 06:33:47] Market Data #5 (22 stocks):
+  AMD: $414.05
+  DIS: $102.29
+  T: $24.98
+  NFLX: $89.33
+  BABA: $135.64
+  CRM: $179.42
+  ADBE: $254.99
+  PEP: $150.37
+  LYFT: $13.18
+  KO: $81.92
+  ORCL: $181.46
+  MA: $499.7
+  XOM: $162.55
+  PFE: $25.66
+  GOOGL: $387.66
+  SHOP: $101.01
+  AMZN: $259.34
+  INTC: $110.8
+  AAPL: $298.97
+  TSLA: $404.11
+  V: $329.91
+  MRNA: $45.72
+
