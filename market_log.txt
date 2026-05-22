@@ -106088,3 +106088,33 @@ This file logs previous day's closing prices of randomly selected stocks.
   SBUX: $106.5
   AMZN: $265.01
 
+[2026-05-22 06:30:52] Market Data #8 (28 stocks):
+  V: $330.75
+  T: $24.93
+  ADBE: $253.37
+  GOOGL: $388.91
+  PFE: $25.79
+  META: $605.06
+  QCOM: $202.51
+  BABA: $134.47
+  CSCO: $114.35
+  JNJ: $229.32
+  MA: $498.04
+  XOM: $156.28
+  KO: $81.55
+  MSFT: $420.15
+  MRNA: $48.12
+  WMT: $130.85
+  INTC: $118.96
+  AMZN: $265.01
+  AMD: $447.58
+  NKE: $44.19
+  SHOP: $105.01
+  CRM: $180.1
+  BA: $222.2
+  PYPL: $44.38
+  IBM: $225.0
+  UBER: $74.6
+  LYFT: $13.35
+  SBUX: $106.5
+
