@@ -15374,3 +15374,44 @@ Breakdown:
   QCOM: Prev=$240.84 → Yest=$249.09 | Δ $+8.25
   GOOGL: Prev=$361.85 → Yest=$358.99 | Δ $-2.86
 
+
+=== Profit Log: 2026-06-06 ===
+Total Value: $7147.35
+Total Profit/Loss: $+30.34
+Breakdown:
+  BABA: Prev=$127.21 → Yest=$125.95 | Δ $-1.26
+  GOOGL: Prev=$358.99 → Yest=$372.19 | Δ $+13.20
+  AMD: Prev=$542.52 → Yest=$523.20 | Δ $-19.32
+  PFE: Prev=$25.34 → Yest=$25.69 | Δ $+0.35
+  ADBE: Prev=$256.24 → Yest=$258.42 | Δ $+2.18
+  QCOM: Prev=$249.09 → Yest=$242.57 | Δ $-6.52
+  SHOP: Prev=$112.94 → Yest=$116.04 | Δ $+3.10
+  KO: Prev=$78.76 → Yest=$76.82 | Δ $-1.94
+  UBER: Prev=$71.69 → Yest=$72.21 | Δ $+0.52
+  MRNA: Prev=$49.06 → Yest=$51.59 | Δ $+2.53
+  T: Prev=$23.55 → Yest=$22.77 | Δ $-0.78
+  ORCL: Prev=$230.33 → Yest=$236.34 | Δ $+6.01
+  META: Prev=$622.98 → Yest=$627.57 | Δ $+4.59
+  CSCO: Prev=$126.50 → Yest=$130.00 | Δ $+3.50
+  JNJ: Prev=$223.24 → Yest=$228.17 | Δ $+4.93
+  AAPL: Prev=$310.26 → Yest=$311.23 | Δ $+0.97
+  LYFT: Prev=$14.09 → Yest=$14.12 | Δ $+0.03
+  INTC: Prev=$112.71 → Yest=$111.78 | Δ $-0.93
+  MA: Prev=$471.55 → Yest=$481.76 | Δ $+10.21
+  WMT: Prev=$116.89 → Yest=$117.74 | Δ $+0.85
+  NVDA: Prev=$214.50 → Yest=$218.66 | Δ $+4.16
+  AMZN: Prev=$250.02 → Yest=$253.79 | Δ $+3.77
+  PYPL: Prev=$42.61 → Yest=$42.75 | Δ $+0.14
+  V: Prev=$312.40 → Yest=$320.18 | Δ $+7.78
+  BA: Prev=$210.58 → Yest=$217.42 | Δ $+6.84
+  MSFT: Prev=$427.34 → Yest=$428.05 | Δ $+0.71
+  CRM: Prev=$190.61 → Yest=$188.75 | Δ $-1.86
+  DIS: Prev=$99.39 → Yest=$99.34 | Δ $-0.05
+  SBUX: Prev=$95.89 → Yest=$94.14 | Δ $-1.75
+  NKE: Prev=$43.81 → Yest=$43.62 | Δ $-0.19
+  XOM: Prev=$152.53 → Yest=$152.04 | Δ $-0.49
+  PEP: Prev=$142.54 → Yest=$140.67 | Δ $-1.87
+  TSLA: Prev=$423.70 → Yest=$418.45 | Δ $-5.25
+  IBM: Prev=$305.63 → Yest=$301.77 | Δ $-3.86
+  NFLX: Prev=$81.52 → Yest=$81.56 | Δ $+0.04
+
