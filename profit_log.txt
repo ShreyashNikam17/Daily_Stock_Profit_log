@@ -19773,3 +19773,32 @@ Breakdown:
   AMZN: Prev=$258.45 → Yest=$254.98 | Δ $-3.47
   BABA: Prev=$115.75 → Yest=$116.31 | Δ $+0.56
 
+
+=== Profit Log: 2026-09-25 ===
+Total Value: $5200.92
+Total Profit/Loss: $-37.72
+Breakdown:
+  CSCO: Prev=$106.44 → Yest=$106.43 | Δ $-0.01
+  QCOM: Prev=$198.27 → Yest=$197.24 | Δ $-1.03
+  ADBE: Prev=$238.25 → Yest=$240.69 | Δ $+2.44
+  BA: Prev=$197.72 → Yest=$199.93 | Δ $+2.21
+  MRNA: Prev=$182.56 → Yest=$182.11 | Δ $-0.45
+  SHOP: Prev=$147.74 → Yest=$142.34 | Δ $-5.40
+  TSLA: Prev=$378.90 → Yest=$380.12 | Δ $+1.22
+  PYPL: Prev=$52.89 → Yest=$52.51 | Δ $-0.38
+  AMD: Prev=$623.77 → Yest=$614.61 | Δ $-9.16
+  T: Prev=$25.10 → Yest=$25.30 | Δ $+0.20
+  AAPL: Prev=$339.75 → Yest=$337.02 | Δ $-2.73
+  MSFT: Prev=$498.00 → Yest=$500.59 | Δ $+2.59
+  UBER: Prev=$69.89 → Yest=$69.42 | Δ $-0.47
+  GOOGL: Prev=$351.16 → Yest=$337.83 | Δ $-13.33
+  INTC: Prev=$123.86 → Yest=$122.60 | Δ $-1.26
+  NFLX: Prev=$72.16 → Yest=$71.36 | Δ $-0.80
+  BABA: Prev=$116.31 → Yest=$110.80 | Δ $-5.51
+  WMT: Prev=$110.12 → Yest=$110.53 | Δ $+0.41
+  ORCL: Prev=$149.20 → Yest=$144.56 | Δ $-4.64
+  AMZN: Prev=$254.98 → Yest=$249.27 | Δ $-5.71
+  META: Prev=$736.60 → Yest=$744.10 | Δ $+7.50
+  NKE: Prev=$36.10 → Yest=$36.05 | Δ $-0.05
+  NVDA: Prev=$228.87 → Yest=$225.51 | Δ $-3.36
+
