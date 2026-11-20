@@ -157449,3 +157449,13 @@ This file logs previous day's closing prices of randomly selected stocks.
   SHOP: $139.42
   MRNA: $196.79
 
+[2026-11-20 10:17:21] Market Data #4 (8 stocks):
+  SBUX: $109.11
+  NKE: $36.31
+  AMZN: $267.74
+  IBM: $228.53
+  KO: $98.09
+  V: $415.22
+  PEP: $141.87
+  ORCL: $113.89
+
